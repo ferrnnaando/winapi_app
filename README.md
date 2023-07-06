@@ -1,6 +1,5 @@
-# messenger_app
+# windows api app
 
-+ | Secret credentials to th
 + | Unfinished proyect, it will stay constantly receiving new commits or maybe unholded.
 
 + | Simple GUI without using emergent windows, just buttons on the main window (hWnd).
